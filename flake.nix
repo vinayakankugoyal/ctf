@@ -20,6 +20,8 @@
           requests
           ropper
           ipython
+          numpy
+          pillow
         ]);
 
       in
@@ -41,6 +43,7 @@
             qpdf
             zsteg
 	    hexdump
+            steghide
             
             # --- Scripting ---
             pythonEnv
