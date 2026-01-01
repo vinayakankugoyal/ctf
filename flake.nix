@@ -36,6 +36,11 @@
             wireshark-cli
             file
             unzip
+            poppler-utils
+            exiftool
+            qpdf
+            zsteg
+	    hexdump
             
             # --- Scripting ---
             pythonEnv
