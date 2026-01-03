@@ -42,7 +42,7 @@
             exiftool
             qpdf
             zsteg
-	    hexdump
+            hexdump
             steghide
             
             # --- Scripting ---
