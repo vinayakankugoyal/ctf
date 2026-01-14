@@ -29,7 +29,7 @@
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
             # --- Reverse Engineering ---
-            ghidra
+            binaryninja-free
             binwalk
             
             # --- Network & Forensics ---
